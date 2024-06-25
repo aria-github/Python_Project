@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 from time import sleep
-from random import choice
 from csv import DictWriter    # pake DictWriter yah
  
 
