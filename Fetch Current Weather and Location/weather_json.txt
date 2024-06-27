@@ -1,0 +1,18 @@
+{"coord":{"lon":106.8451,"lat":-6.2146},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],"base":"stations","main":{"temp":303.12,"feels_like":307.64,"temp_min":302.75,"temp_max":305.11,"pressure":1010,"humidity":68},"visibility":6000,"wind":{"speed":3.31,"deg":81,"gust":3.61},"clouds":{"all":20},"dt":1719459103,"sys":{"type":1,"id":9383,"country":"ID","sunrise":1719442962,"sunset":1719485307},"timezone":25200,"id":1642911,"name":"Jakarta","cod":200}
+
+
+{
+"coord":{"lon":106.8451,"lat":-6.2146},
+"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],
+"base":"stations",
+"main":{"temp":303.12,"feels_like":307.64,"temp_min":302.75,"temp_max":305.11,"pressure":1010,"humidity":68},
+"visibility":6000,
+"wind":{"speed":3.31,"deg":81,"gust":3.61},
+"clouds":{"all":20},
+"dt":1719459103,
+"sys":{"type":1,"id":9383,"country":"ID","sunrise":1719442962,"sunset":1719485307},
+"timezone":25200,
+"id":1642911,
+"name":"Jakarta",
+"cod":200
+}
