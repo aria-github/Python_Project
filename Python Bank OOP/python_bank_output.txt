@@ -1,0 +1,58 @@
+Wrong ID or Password
+
+Login Success, Welcome to Python Bank 'aria'
+
+Name = 'aria', ID = '081374140707'
+
+Login Success, Welcome to Python Bank 'budi'
+
+Name = 'budi', ID = '081374140001'
+
+customer name     : aria
+your balance now  : 0
+
+customer name     : budi
+your balance now  : 0
+
+customer name     : aria
+transaction time  : 2024-07-02 05:46:30.271784
+deposit  (^_^)    : 1000
+your balance now  : 1000
+
+customer name     : aria
+transaction time  : 2024-07-02 05:46:30.271846
+withdraw (T-T)    : 300
+your balance now  : 700
+
+customer name     : aria
+transaction time  : 2024-07-02 05:46:30.271891
+deposit  (^_^)    : 5000
+your balance now  : 5700
+
+customer name     : aria
+your balance      : 5700
+withdraw          : 9000
+withdraw failed   : Not enough balance!
+
+customer name     : aria
+your balance      : 5700
+transfer          : 9000
+transfer failed   : Not enough balance!
+
+customer name     : aria
+transfer to       : 081374140000
+transfer failed   : Target transfer not found!
+
+customer name     : aria
+transaction time  : 2024-07-02 05:46:30.271997
+transfer to       : budi, 081374140001
+transfer (x_x)    : 5000
+your balance now  : 700
+
+User Logout Successful
+
+customer name     : budi
+your balance now  : 5000
+
+
+=== Code Execution Successful ===
