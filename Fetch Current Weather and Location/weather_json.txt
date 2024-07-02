@@ -1,0 +1,16 @@
+{
+"coord":{"lon":106.8451,"lat":-6.2146},
+"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10n"}],
+"base":"stations",
+"main":{"temp":300.77,"feels_like":303.1,"temp_min":300.42,"temp_max":301.91,"pressure":1011,"humidity":70,"sea_level":1011,"grnd_level":1009},
+"visibility":10000,
+"wind":{"speed":2.33,"deg":114,"gust":3.79},
+"rain":{"1h":0.26},
+"clouds":{"all":94},
+"dt":1719937057,
+"sys":{"type":2,"id":2033644,"country":"ID","sunrise":1719875009,"sunset":1719917372},
+"timezone":25200,
+"id":1642911,
+"name":"Jakarta",
+"cod":200
+}
