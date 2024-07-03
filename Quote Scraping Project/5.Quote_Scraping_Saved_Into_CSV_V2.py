@@ -67,3 +67,7 @@ write_quotes(quotes)
 
 # kalo gak ada encoding="utf-8" , bakal error
 # 'charmap' codec can't encode character '\u2032' in position 1: character maps to <undefined>
+
+# in this V2 file , this code are added for better result
+# "born_date": scrape_bio(quote.find("a")["href"])[0],
+# "born_location": scrape_bio(quote.find("a")["href"])[1]
