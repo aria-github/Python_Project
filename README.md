@@ -16,4 +16,4 @@ This code use BeautifulSoup Python Library to scrape information from web pages,
 
 
 ## Scraping to a Database SQL
-This code use BeautifulSoup Python Library to scrape information from web pages, filter book information by title-price-rating , and save it as SQL using SQLite3.
+This code use BeautifulSoup Python Library to scrape information from web pages, filter Book information by title-price-rating , and save it as SQL using SQLite3.
