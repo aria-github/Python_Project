@@ -12,8 +12,8 @@ This code will give a weather forcast based on current location of the user, by 
 
 
 ## Quote Scraping Project
-This code use BeautifulSoup Python Library to scrape information from web pages, filter/select information based off of class and ID, and save it into CSV file. even make quiz from the scraped CSV file.
+This code use BeautifulSoup Python Library to scrape information from web pages, filter/select information based off of html class and id, and save it into CSV file. even make quiz from the scraped CSV file.
 
 
 ## Scraping to a Database SQL
-This code use BeautifulSoup Python Library to scrape information from web pages, filter Book information by title-price-rating , and save it as SQL using SQLite3.
+This code use BeautifulSoup Python Library to scrape information from web pages, retreive "Books" information and filter by title-price-rating , and save it as SQL using SQLite3.
