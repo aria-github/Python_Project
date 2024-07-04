@@ -1,5 +1,5 @@
 # Learning Python
-These are my personal mini-project, result of studying basic Python from Udemy Colt_Steele "The Modern Python3 Bootcamp". 
+These are my personal mini-project, result of studying Python from Udemy Colt_Steele "The Modern Python3 Bootcamp". 
 I'll track my projects here, with a quick note on what each project does.
 
 
